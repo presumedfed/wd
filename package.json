@@ -1,0 +1,20 @@
+{
+  "name": "sass",
+  "version": "0.1.0",
+  "description": "Example project showing how to use Sass middleware",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.0"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "sass"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+  }
+}
